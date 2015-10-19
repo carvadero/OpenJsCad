@@ -12,6 +12,7 @@ All code released under MIT license
 */
 
 if(typeof module !== 'undefined') {    // used via nodejs
+    var lib = lib || './';
     CSG = require(lib+'csg.js').CSG;
     CAG = require(lib+'csg.js').CAG;
 }
