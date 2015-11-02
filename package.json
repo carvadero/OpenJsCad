@@ -1,0 +1,23 @@
+{
+  "name": "OpenJsCsg",
+  "version": "1.0.0",
+  "description": "OpenJsCad without the GUI",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/carvadero/OpenJsCsg.git"
+  },
+  "keywords": [
+    "OpenScad",
+    "OpenJsCad",
+    "CSG",
+    "3D",
+    "STL"
+  ],
+  "author": "Dan Marshall",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/carvadero/OpenJsCsg/issues"
+  },
+  "homepage": "https://github.com/carvadero/OpenJsCsg"
+}
