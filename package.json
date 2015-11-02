@@ -1,5 +1,5 @@
 {
-  "name": "OpenJsCsg",
+  "name": "openjscad-csg",
   "version": "1.0.0",
   "description": "OpenJsCad without the GUI",
   "main": "src/index.js",
