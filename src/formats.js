@@ -11,8 +11,9 @@ All code released under MIT license
 
 */
 
-var CSG = require('./csg.js').CSG;
-var CAG = require('./csg.js').CAG;
+var csgjs = require('./csg.js');
+var CSG = csgjs.CSG;
+var CAG = csgjs.CAG;
 
 ////////////////////////////////////////////
 // X3D Export
