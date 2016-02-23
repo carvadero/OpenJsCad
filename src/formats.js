@@ -11,11 +11,9 @@ All code released under MIT license
 
 */
 
-if(typeof module !== 'undefined') {    // used via nodejs
-    var lib = lib || './';
-    CSG = require(lib+'csg.js').CSG;
-    CAG = require(lib+'csg.js').CAG;
-}
+var csgjs = require('./csg.js');
+var CSG = csgjs.CSG;
+var CAG = csgjs.CAG;
 
 ////////////////////////////////////////////
 // X3D Export
