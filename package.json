@@ -1,6 +1,6 @@
 {
   "name": "openjscad-csg",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "OpenJsCad without the GUI",
   "main": "src/index.js",
   "repository": {
